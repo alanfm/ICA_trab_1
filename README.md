@@ -14,7 +14,7 @@ $ env\scripts\active
 $ env\scripts\deactive
 ```
 
-## Instalar dependencias
+## Instalar dependências
 ```shell
 $ pip install -r requirements.txt
 ```
